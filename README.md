@@ -1,6 +1,6 @@
 # ShopEase – Full Stack E-Commerce Application
 
-ShopEase is a full-stack e-commerce platform built with React, Spring Boot, and MySQL.  
+ShopEase is a full-stack E-commerce platform built with **React**, **Spring Boot**, and **MySQL**.  
 Developed a full stack web application with separate Admin and Customer modules. 
 Implemented multiple backend features and database operations using Spring Boot REST APIs and MySQL.  
 Designed a responsive React frontend connected to the backend for real-time data updates.  
@@ -23,8 +23,10 @@ This repository contains both the **frontend** and **backend** in one project.
 - MySQL
 
 ### Tools
+- Eclipse
 - Maven
 - Postman
+- Spring Tool Suite
 - Git & GitHub
 
 ## Project Structure ##
